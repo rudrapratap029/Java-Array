@@ -10,14 +10,17 @@ public class Reversearr {
             first++;
             last--;
         }
+          
         // for(int i=0;i<arr.length;i++){
         //     System.out.println(arr[i]);
 
         // }
         // We can use for each loop for printing
         for(int ele: arr){
+             
             System.out.println(ele);
         }
     }
     
 }
+
