@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class SearchInsert {
 
     public static int searchInsert(int[] nums, int target) {
@@ -31,3 +32,4 @@ public class SearchInsert {
         System.out.println("Index: " + result);
     }
 }
+
