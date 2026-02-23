@@ -14,10 +14,11 @@ public class leetcode169 {
             }
                    if (count > k){
             System.out.println("majority element is found " + arr[i]);
-            return ;
+            return ; // stop program 
         }
     }
     System.out.println("majority element is not  found ");
     }
      
 }
+
