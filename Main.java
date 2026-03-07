@@ -1,6 +1,7 @@
 public class Main {
 
     static int removeDuplicates(int[] nums) {
+        
 
         int k = 1;
 
@@ -28,5 +29,6 @@ public class Main {
         }
     }
 }
+
 
 
