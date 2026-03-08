@@ -1,4 +1,5 @@
 public class Reversearr {
+     
      public static void main (String[] args){
         int arr[] = {5,5,4,78,1,98,36,48,72,02,21,20,95};
         int first =0;
@@ -24,5 +25,6 @@ public class Reversearr {
     }
     
 }
+
 
 
