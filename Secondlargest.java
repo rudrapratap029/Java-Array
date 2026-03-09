@@ -1,5 +1,6 @@
 public class Secondlargest {
      public static void main(String[] args) {
+          
 
          int arr[] = {20,54,15,12,34,67,95,95,45,105};
         int max = arr[0];
@@ -19,3 +20,4 @@ public class Secondlargest {
  System.out.println("second largest number is: " + smax);
 }
 }
+
